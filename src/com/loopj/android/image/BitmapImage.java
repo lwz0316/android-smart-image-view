@@ -13,4 +13,6 @@ public class BitmapImage implements SmartImage {
     public Bitmap getBitmap(Context context) {
         return bitmap;
     }
+
+	// test
 }
